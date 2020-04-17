@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    123
-	<i class="iconfont">&#xe621;</i>
+	<router-view></router-view>
   </div>
 </template>
 
